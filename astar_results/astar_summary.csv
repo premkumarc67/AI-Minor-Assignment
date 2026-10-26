@@ -1,0 +1,5 @@
+heuristic,success_rate,avg_path_length,avg_nodes_expanded,avg_max_frontier,avg_runtime_ms
+Chebyshev,100.0,38.05,336.22,48.76,0.4633019963512197
+Dijkstra (h=0),100.0,38.05,937.09,45.62,1.1315420031314716
+Euclidean,100.0,38.05,298.49,45.16,0.39276499999687076
+Manhattan,100.0,38.05,122.33,53.34,0.18342500319704413
